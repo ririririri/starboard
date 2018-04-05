@@ -8,6 +8,7 @@ What this app does:
 - Setting up two buttons, each indicating one "side" of the game.
 - Asking user to click one button to guess which side the game is currently on.
 - Showing messages to tell the user whether the guess is correct.
+- Starting again, waiting for user to guess one more time.
 ```
 
 Note
